@@ -1,0 +1,6 @@
+{
+  "name": "Evenements",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Evenements.js"
+}
